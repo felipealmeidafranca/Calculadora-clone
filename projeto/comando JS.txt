@@ -1,0 +1,183 @@
+console.log : exibe informaçoes no console do navegador
+
+case sensitive : letras maiusculas e minusculas diferem
+
+Script incorporado : quando o arquivo Js esta no mesmo arquivo HTML
+
+a tag <script> com o atributo SRC incluem um arquivo Js externo
+
+comentários : ignoram trechos de codigos
+
+variavel : um espaço na memoria que armazena valor
+
+comando var : declara variavel
+
+comando let : declara variaveis definindo o escopo de atuaçao
+
+let : leva em conta o escopo em que foi definida
+
+const : declara constante
+
+number : numeros em JavaScript sao do tipo
+
+variais com o mesmo nome e tipo sao
+Array : armazenando mais de um valor
+
+typeOf : mostra o tipo de dado variavel
+
+no JavaScript as variaveis sao Fracamente tipadas : tipo de dado variavel
+
+funçoes de conversao : parselnt, parsefloat toString
+
+= é um operador de atribuiçao
+
+== compara o valor de duas expressoes
+
+=== compara o valor e o tipo de dados
+
+!== compara se os valor e tipos sao diferentes
+
+!= compara se os valores sao diferentes
+
+if (condiçao) {
+   instruçoes}
+
+uma condiçao if que for verdadeira ANULARÁ as demais condiçoes else if
+ou else
+
+Switch : estrutura de controle com opeçoes pré-definidas
+
+case condiçao: (entao) instruçoes; break;
+
+utilize sempre o comando BREAK para interromper o bloco
+
+cuidado com o nome dos arquivos Diretório muitos erros no inicio
+sao comuns por isso
+
+
+For (valor inicial; valor final; incremento) { //instruçoes}
+
+continue : similar ao break, porém ignora e vai para o proximo
+
+Templante String: ' recurso incrivel do ${Js}'
+
+funçoes sao trechos de códigos que podem ser reutilizados
+
+classes agrupa atributos e métodos no mesmo lugar
+
+return encerra a funçao e retorna um valor
+
+conhecido como argumentos ou parâmetros são informações que as funções
+precisam
+
+argumentos ou args permitem acessar parâmetros de uma função
+
+arrow function : é um novo recurso para funções
+
+callback : função de retorno como parâmetro após uma ação
+
+Document Object Model ( DOM ) a estrutura como o HTML é formado
+
+Eventos : ações realizadas na aplicação que dispara rotinas
+
+window : manipulamos a aplicação
+
+TimeStamp : quantidade de segundos desde 01/01/1970
+
+Array : variável indexada
+
+Classe : irá englobar todos os assuntos em comum
+
+This : é um comando interno usado para referenciar
+
+Atributos e Métodos na mesmas classe
+uma classe é um conjuntos de atributos de métodos
+
+Instância : é quando o objeto representa uma classe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
